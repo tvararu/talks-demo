@@ -1,10 +1,3 @@
-Your Project Name
-=================
-A brief summary of your project
+Roots is a framework for rapid static site development. This is just a quick one-off project that I live-coded for a presentation.
 
-### Setup / Installation
-Some instructions on how to set up and/or install this project
-
-### Staging/Production
-This site is staged at http://example.com [u: admin p: example]    
-This site is live at http://example.com
+You can find out more about roots [here](http://roots.cx).

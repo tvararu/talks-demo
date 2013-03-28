@@ -1,0 +1,25 @@
+h1 Talks is awesome
+
+.butan
+  span Ceva
+
+p 
+  | This is a paragraph
+  br
+  | This is a paragraph
+  | This is a paragraph
+  | This is a paragraph
+
+- var items = ["home", "about", "contact"]
+ul
+  - each item in items
+    a(href="#{item}.html")
+      li= item
+
+table
+  thead
+    th head1
+    th head2
+  tbody
+    td data1
+    td data2
